@@ -8,7 +8,7 @@ FortiGate VLAN routing + user-group Internet access (EVE-NG)
 ---
 
 ## Topology
-![Topology](topology.png)
+![Topology](Firewall_VLAN_topology.png)
 
 ---
 
